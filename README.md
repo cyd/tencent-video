@@ -76,5 +76,8 @@ vqq_appid、
 vqq_openid、
 vqq_access_token、
 main_login。这些都是固定的，出现图形验证就去腾讯视频手动签一次到就行了
+
+失效后只需要重新抓取vqq_access_token，其它都是不变的
+
 ![image](https://user-images.githubusercontent.com/72308008/229113603-d6cd00f3-e67e-4db3-8f12-76a97a4af31e.png)
 
